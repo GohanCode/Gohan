@@ -1,7 +1,7 @@
 ### Hello everyone I'm GohanCode
 
 - Man, 21 years old I live in Concepción, Chile.
-- I'm currently a systems engineering student, on [Instituto Profesional Duoc UC)](https://duoc.cl)
+- I'm currently a systems engineering student, on [Instituto Profesional Duoc UC](https://duoc.cl)
 
 ### Stats
 
